@@ -5,7 +5,7 @@ type: software
 authors:
   - family-names: Li
     given-names: Fujian
-repository-code: "https://github.com/your-account/EDT-Dijkstra-main-channel-extraction"
+repository-code: "https://github.com/lifujian679-web/EDT-Dijkstra-main-channel-extraction"
 abstract: "Python implementation of an EDT–Dijkstra workflow for extracting the main-channel centerline from multi-channel river imagery."
 keywords:
   - river centerline extraction
