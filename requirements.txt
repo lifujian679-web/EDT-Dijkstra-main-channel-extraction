@@ -1,0 +1,9 @@
+rasterio
+fiona
+scipy
+scikit-image
+numpy
+opencv-python
+networkx
+geopandas
+shapely

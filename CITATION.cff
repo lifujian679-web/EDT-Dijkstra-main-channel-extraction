@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated manuscript and this software release."
+title: "EDT–Dijkstra main-channel centerline extraction"
+type: software
+authors:
+  - family-names: Li
+    given-names: Fujian
+repository-code: "https://github.com/your-account/EDT-Dijkstra-main-channel-extraction"
+abstract: "Python implementation of an EDT–Dijkstra workflow for extracting the main-channel centerline from multi-channel river imagery."
+keywords:
+  - river centerline extraction
+  - Euclidean Distance Transform
+  - Dijkstra algorithm
+  - Sentinel-2
+  - braided river
+license: MIT
+version: 1.0.0
+date-released: 2026-05-07
