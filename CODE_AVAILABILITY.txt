@@ -1,0 +1,3 @@
+Code availability statement
+---------------------------
+The implementation code of the EDT–Dijkstra extraction method used in this study is publicly available in a code repository and is also provided with this submission. The package includes the main processing script, dependency list, and documentation describing the input data, processing workflow, software environment, and output files.
